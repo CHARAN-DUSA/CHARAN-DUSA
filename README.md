@@ -46,7 +46,11 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan-dusa&show_icons=true&theme=radical" alt="charan-dusa GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charan-dusa&show_icons=true&theme=radical&cache_seconds=1800" alt="charan-dusa GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan-dusa&layout=compact&theme=radical" />
 </p>
 
 ---
