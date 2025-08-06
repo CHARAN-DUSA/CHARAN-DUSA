@@ -44,14 +44,40 @@
 
 ---
 
+### 👋 Hi there, I'm Charan Dusa
+
+---
+
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan-dusa&show_icons=true&theme=radical&cache_seconds=1800" alt="charan-dusa GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charan-dusa&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
 </p>
+
+---
+
+### 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan-dusa&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📊 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan-dusa&layout=compact&theme=radical" />
 </p>
+
+---
+
+### 🧠 Advanced GitHub Metrics (auto-updated daily)
+
+<p align="center">
+  <img src="https://github.com/charan-dusa/charan-dusa/blob/main/metrics.svg" />
+</p>
+
 
 ---
 
