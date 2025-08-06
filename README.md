@@ -46,7 +46,4 @@
 
 ### 👋 Hi there, I'm Charan Dusa
 
----
----
-
 ⭐️ Feel free to star this repo or connect with me!
