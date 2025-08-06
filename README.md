@@ -48,14 +48,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan-dusa&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
-</p>
-
----
-
 ### 🔥 GitHub Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan-dusa&theme=radical" alt="GitHub Streak"/>
 
