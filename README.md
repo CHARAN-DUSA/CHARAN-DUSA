@@ -47,18 +47,6 @@
 ### 👋 Hi there, I'm Charan Dusa
 
 ---
-
-### 🔥 GitHub Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charan-dusa&theme=radical" alt="GitHub Streak"/>
-
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=charan-dusa&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-### 🧠 Advanced GitHub Metrics
-<img src="https://raw.githubusercontent.com/charan-dusa/charan-dusa/main/metrics.svg" alt="Metrics" />
-
-
-
 ---
 
 ⭐️ Feel free to star this repo or connect with me!
