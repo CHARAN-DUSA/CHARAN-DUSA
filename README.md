@@ -57,26 +57,14 @@
 ---
 
 ### 🔥 GitHub Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charan-dusa&theme=radical" alt="GitHub Streak"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan-dusa&theme=radical&hide_border=true" />
-</p>
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=charan-dusa&show_icons=true&theme=radical" alt="GitHub Stats" />
 
----
+### 🧠 Advanced GitHub Metrics
+<img src="https://raw.githubusercontent.com/charan-dusa/charan-dusa/main/metrics.svg" alt="Metrics" />
 
-### 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan-dusa&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🧠 Advanced GitHub Metrics (auto-updated daily)
-
-<p align="center">
-  <img src="https://github.com/charan-dusa/charan-dusa/blob/main/metrics.svg" />
-</p>
 
 
 ---
